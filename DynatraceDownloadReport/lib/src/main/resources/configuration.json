@@ -1,0 +1,17 @@
+{
+    "dynatrace": {
+        "fullUrl": "",
+        "token": "dt0c01.NEL75IBI24T4M64NHSJJHCVH.YRAAPBYHHQS24DWQMWTL26CGXBGP5UAGA2VQ6RDVEZOTQA2H6NIU5WY5V5ADFWMX",
+        "fileType":"csv",
+        "resolution":"",
+        "fromTimeStamp":"",
+        "toTimeStamp":""
+    },
+    "s3": {
+            "role": "arn:aws:iam::488861720237:role/log-management-role",
+            "region": "ap-northeast-1",
+            "bucketName": "exploration-quicksight-log",
+            "rootPath": "operation/"
+    }
+
+}
